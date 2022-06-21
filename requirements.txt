@@ -1,5 +1,5 @@
 tqdm==4.35.0
 pandas==0.23.4
 typing==3.6.6
-numpy==1.15.1
+numpy==1.22.0
 setuptools==41.0.1
